@@ -1,0 +1,11 @@
+.navbarcor{
+    background-color: #C32D6D;
+}
+.navtextcolor{
+    color: white;
+    font-style:normal
+}
+.linkpositon {
+    align-items: flex-end;
+    text-align:center;
+}
